@@ -1,13 +1,9 @@
-# Web Scraper
+# Wireless File Transfer (LAN)
 
-A Python-based web scraper that extracts HTML content from paginated pages and saves progress.
+Simple Python app to share files over your local network.
 
 ## Features
-- Resume from last scraped page
-- Handles HTTP errors (429, 404)
-- GUI input (Tkinter)
-- Saves extracted HTML
-
-## Installation
-```bash
-pip install -r requirements.txt
+- Share files over Wi-Fi
+- Simple GUI (Tkinter)
+- FastAPI backend
+- Download via browser
